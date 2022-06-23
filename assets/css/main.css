@@ -72,6 +72,24 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* CUSTOM */
+
+
+.skills {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.react {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-between;
+	color: black;
+	font-weight: bold;
+}
+
 /* Basic */
 
 	@-ms-viewport {
